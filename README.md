@@ -1,2 +1,2 @@
 # ajax
-tv-maze
+Using Tv-maze API
